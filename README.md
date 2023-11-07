@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oii! Meu nome é Gabriela. 💜
 
 <!--
 **Gabfranzini/Gabfranzini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
