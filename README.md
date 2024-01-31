@@ -2,7 +2,7 @@
 
    ### Oii! Meu nome é Gabriela. 💜
 
-- 📚 Estudando HTML/CSS, JAVASCRIPT e PYTHON. 
+- 📚 Estudando HTML/CSS, JAVASCRIPT(básico) e PYTHON. 
 - 💻 Estou cursando Análise e Desenvolvimento de Sistemas. 
 
 <div align="center"> 
