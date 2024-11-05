@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=613BAD&height=120&section=header"/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? 
- font=Fira+Code&weight=600&pause=1000&color=8B35DF&width=435&lines=Bem+vindo+ao+meu+perfil!+%E0%B4%A6%E0%B5%8D%E0%B4%A6%E0%B4%BF%EF%BC%88%E2%80%A2+%CB%95+%E2%80%A2%E3%83%9E.%E1%90%9F" alt="Typing SVG" /></a>
+ font=Fira+Code&weight=600&pause=1000&color=8B35DF&width=435&lines=Bem+vindo+ao+meu+perfil!+%E0%B4%A6%E0%B5%8D%E0%B4%A6%E0%B4%BF%EF%BC%88%E2%80%A2+%CB%95+%E2%80%A2%E3%83%9E.%E1%90%9F" alt="Typing SVG" />
+ </a>
 
  Oii! Meu nome é Gabriela. 💜
 
