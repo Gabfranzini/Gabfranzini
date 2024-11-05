@@ -10,8 +10,6 @@
 <a href="mailto: gabifranzini@outlook.com " target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
- ![f9576fca9fc8ef79976a1d6327bbe9ae](https://github.com/user-attachments/assets/43e0e413-1080-400c-93f2-5c0fa3ece6c5)
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabfranzini/gabfranzini/output/github-contribution-grid-snake-dark.svg">
