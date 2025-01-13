@@ -50,7 +50,7 @@
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/331761/sql-database-sql-azure.svg"
+    src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"
     />
 
     
