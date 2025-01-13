@@ -50,7 +50,7 @@
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.flaticon.com/br/icone-gratis/servidor-sql_5815478?term=sql&page=1&position=2&origin=tag&related_id=5815478" 
+    src="https://www.svgrepo.com/svg/331760/sql-database-generic.svg" 
     />
 
     
